@@ -7,4 +7,4 @@ jobs:
       - name: bash_step
         run: echo "hello=World"
       - name: second_step
-        run: echo ""Second Hello=world"
+        run: echo "Second Hello=world"
